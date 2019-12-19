@@ -2,14 +2,13 @@
 
 An account of my personal journey as a self-taught developer.
 
-> Disclaimer: I'm merely exposing my chain of thoughts. As such, you should take my stance and analysis on technologies as an earnest *work in progress*. My opinions will most likely mature with time, and I will try to reflect these changes as much as possible.
-
 ## Table of contents
 
 - [Background](#background)
 - [Right on tracks](#right-on-tracks)
 - [JavaScript == 42?](#javascript--42)
 - [Modern JavaScript front-end frameworks](#modern-javascript-front-end-frameworks)
+
 
 ## Background
 
@@ -44,3 +43,5 @@ Previously obscure concepts such as middlewares and asynchronous programming wer
 ## Modern JavaScript front-end frameworks
 
 I picked [Angular](https://angular.io/) as the first front-end JavaScript framework I would get my hands on. [React](https://reactjs.org/) was also a good candidate, but it was less popular in terms of job offering in my area. I'm switching now to my first front-end client [development journal](https://github.com/stoneLeaf/timeflies-angular#development-journal) for insights, and will resume writing here when done.
+
+> Epilogue: I was hired as a full stack software engineer shortly after writing these last words. The purely self-taught part of my journey ended there as I was lucky enough to become mentored in a professionnal setting. It now seems like an eternity ago...
